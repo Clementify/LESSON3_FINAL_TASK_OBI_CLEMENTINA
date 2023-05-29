@@ -12,4 +12,4 @@
 - To fix your lint error/warnings for css files run "npm run fix:lint:css"
 - Only when your HTML and CSS lint check is completed, get started to git, link to your remote repository, commit changes, push changes. 
 - After changes have been pushed, make a pull request between the feature branch and the main branch.
-- Submit your code (REPOSITORY URL) through our channel on Slack.
+- Submit your code (REPOSITORY URL) through our channel on Slack
